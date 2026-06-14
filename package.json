@@ -1,0 +1,36 @@
+{
+  "name": "facebook-bot",
+  "version": "2.5.0",
+  "description": "Facebook message sender based on NeroBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "aes-js": "latest",
+    "axios": "latest",
+    "bluebird": "latest",
+    "canvas": "^3.2.3",
+    "chalk": "^4.1.2",
+    "cheerio": "latest",
+    "crypto": "latest",
+    "express": "^5.2.1",
+    "fast-speedtest-api": "latest",
+    "fs-extra": "latest",
+    "gradient-string": "latest",
+    "https-proxy-agent": "latest",
+    "jimp": "latest",
+    "lz-string": "latest",
+    "moment-timezone": "latest",
+    "mqtt": "^5.15.1",
+    "node-forge": "latest",
+    "npmlog": "^7.0.1",
+    "puppeteer": "^25.1.0",
+    "qrcode-reader": "latest",
+    "readline": "latest",
+    "request": "latest",
+    "systeminformation": "^5.31.7",
+    "totp-generator": "latest",
+    "websocket-stream": "^5.5.2"
+  }
+}
